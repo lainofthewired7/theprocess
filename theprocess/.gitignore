@@ -1,0 +1,11 @@
+# Secrets - never commit
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
